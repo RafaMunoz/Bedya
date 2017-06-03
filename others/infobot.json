@@ -1,0 +1,54 @@
+{
+    "token": "INTRODUCE AQUI TU TOKEN",
+    "admin": [
+        {
+            "id": "INTRODUCE AQUI TU ID",
+            "name": "INTRODUCE AQUI TU NOMBRE"
+        }
+    ],
+    "control": 1,
+    "infodenied": 1,
+    "interfaces": [
+        "lo",
+        "eth0",
+        "wlan0"
+    ],
+    "language": "ES",
+    "modules": [
+        {
+            "activated": 0,
+            "name": "BedyaStart"
+        },
+        {
+            "accid": "0",
+            "activated": 0,
+            "appid": "0",
+            "id": "0",
+            "key": "0",
+            "name": "Latch"
+        }
+    ],
+    "name": "Bedya Bot",
+    "services": [
+        {
+            "name": "apache2",
+            "nb": "Apache"
+        },
+        {
+            "name": "mariadb",
+            "nb": "MariaDB"
+        },
+        {
+            "name": "mongodb",
+            "nb": "MongoDB"
+        },
+        {
+            "name": "nagios",
+            "nb": "Nagios"
+        },
+        {
+            "name": "vsftpd",
+            "nb": "FTP"
+        }
+    ]
+}
