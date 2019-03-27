@@ -1,0 +1,17 @@
+{
+	"1":"Bienvenido",
+	"2":"Bedya es la primera aplicación para la administración de dispositivos de IT (Servidores, PC, Raspberry ...) a través de Telegram. De esta manera podras conocer el estado de tus dispositivos desde cualquier lugar con conexión a Internet, ya sea un teléfono movil o un PC.",
+	"3":"Si necesitas más información puedes visitar https://www.bedya.es",
+	"4":"Si quieres crearte una cuenta en Bedya escribe /register",
+	"5":"Si solo quieres saber tu ID pulsa el botón <ID Telegram>",
+	"6":"Lo siento no entiendo lo que me quieres decir.",
+	"7":"Bedya language set to Español",
+	"8":"Ya estas registrado!!",
+	"9":"Puedes acceder a tu cuenta en https://www.bedya.es/login con tu 'ID Telegram' y tu 'Contraseña'",
+	"10":"Para completar el registro escribe /pass seguido de tu contraseña. Por ejemplo: /pass Ra1234",
+	"11":"Contraseña no valida",
+	"12":"Tu contraseña debe:",
+	"13":"Tener al menos 6 caracteres de longitud",
+	"14":"Contener al menos 1 letra minúscula y 1 mayúscula",
+	"15":"Contraseña cambiada correctamente"
+}

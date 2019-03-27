@@ -5,6 +5,8 @@ This way you can know the status of your devices from anywhere with Internet con
 
 Web: [https://www.bedya.es/](https://www.bedya.es/)
 
+IMPORTANT: Now you can install the Bedya Server in your house, you can see the steps to install it [here](https://github.com/RafaMunoz/Bedya/tree/master/Server) .
+
 ----------
 
 Features:
