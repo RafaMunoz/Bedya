@@ -10,7 +10,6 @@ try {
     $cursor = $manager->executeCommand("bedya", $command);
     foreach ($cursor as $document) {
         $nbots = $document->{"count"};
-        $nbots = 160 + $nbots;
     }
 
 } catch(MongoDB\Driver\Exception $e) {
