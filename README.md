@@ -96,6 +96,14 @@ You must complete the fields "token", "id" and "name" and then save the file usi
     ],
 
 
+If you have installed a Bedya Server you will need to modify the configuration file and change the IP addresses for your server.
+
+    $ sudo nano /etc/bedya/bedya.conf
+    
+    [URL]
+    updates = IP-SERVER/api/infobot/
+    downloads = IP-SERVER/downloads
+
 Once the configuration file has been edited you can start the service using either of the following two commands.
 
     $ sudo service bedya start
