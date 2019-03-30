@@ -3,7 +3,6 @@
 **Bedya** is the first application for managing IT devices for Linux distribution (Servers, Raspberry-Pi ...) via Telegram.
 This way you can know the status of your devices from anywhere with Internet connection, be it a mobile or a PC.
 
-Web: [https://www.bedya.es/](https://www.bedya.es/)
 
 IMPORTANT: Now you can install the Bedya Server in your house, you can see the steps to install it [here](https://github.com/RafaMunoz/Bedya/tree/master/Server) .
 
